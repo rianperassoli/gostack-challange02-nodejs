@@ -1,5 +1,8 @@
 # gostack-challange02-nodejs
 
+NodeJS back-end based on challenge 2 from BootCamp goStack by Rocketseat. (https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
+
+
 
 > To install the project dependencies: `$ yarn`
 
